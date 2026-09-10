@@ -213,9 +213,9 @@ Through this project, I gained practical experience with:
 
 ## 👨‍💻 Author
 
-**Abhay Kumar Yadav**
+**Aditi Raj**
 
-GitHub: `https://github.com/your-username`
+GitHub: `https://github.com/Aditi-Raj07`
 
 ---
 
